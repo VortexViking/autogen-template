@@ -1,8 +1,4 @@
 # autogen-template
-a auto generation template script written in python
-Here's a description you can use in a GitHub README file to explain the purpose and functionality of the `autogen-template.py` script:
-
----
 
 ### Auto-Generation Template Script
 
